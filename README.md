@@ -1,7 +1,7 @@
 # GeneAnnot
 
 
-BINF2010 –Scripting assignment
+## BINF2010 –Scripting assignment
 "Glue" programming and scripting are important skills in bioinformatics, allowing the automation of complex and repetitive tasks when analysing large datasets. This assignment is worth 15% of the total mark for the course and requires you to write a script to automate a “pipeline” of bioinformatics tasks.
 
 Two options for the assignment are presented. Option 1 involves writing a bash shell script while option 2 involves a scripting language such as Perl or Python. Students who are doing or have done COMP2041 Software Construction and are familiar with Perl should be doing Option 2.If you have or are taking COMP2041 and you choose Option 1 your mark will be capped at 65%.
